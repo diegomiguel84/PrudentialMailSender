@@ -1,0 +1,2 @@
+Update EMailsTemplates
+set Mensaje = REPLACE(Mensaje,'Estamos a tu disposición para ayudarte. Podés contactarnos al 0800-777-PRUD (7783), vía mail a atencionalasegurado@prudential.com o bien podés solicitar asesoramiento personalizado a tu asesor Life Planner ®.','')
